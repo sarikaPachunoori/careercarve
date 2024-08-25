@@ -1,14 +1,12 @@
+
+
+
 .stu-cont{
   height: 120vh;
   background-image: linear-gradient(to right,#6da6e8,#3f62eb);
   padding: 20px;
 }
 
-.logo-2{
-  height: 10%;
-  width:30%;
-  margin: 20px;
-}
 .cont-2{
   width: 100%;
   display: flex;
